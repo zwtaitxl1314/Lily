@@ -9,7 +9,7 @@ public class GetInput {
 		System.out.println("请输入你的姓名：");
 		String name=s.next();                               // 读取一个字符串，遇到 空格 即结束本次读取
 		
-		
+		//sssssssssssssssssssssssssewewewewewe
 		System.out.println("请输入你的年龄：");
 		int age=s.nextInt();                                // 读取一个数值，遇到 空格 即结束本次读取
 		
